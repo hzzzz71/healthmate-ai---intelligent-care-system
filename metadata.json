@@ -1,0 +1,8 @@
+{
+  "name": "HealthMate AI - Intelligent Care System",
+  "description": "A comprehensive AI-powered healthcare management platform featuring symptom analysis, health tracking, and community support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
